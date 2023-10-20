@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+此仓库用于记录在java初学中遇到的问题，文件在本地使用typora编辑，然后上传
+举例：
+1、在vscode中编写java程序，输入中文，输出中文时遇到乱码以及解决方法
+2、需要记忆的一些基础语法
